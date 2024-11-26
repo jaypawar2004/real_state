@@ -21,7 +21,7 @@ html,body{
     
 }
 
-.navbar .logo {
+.navbar .navbar .logo {
     width: 70px;
     height: 79px;
     background-image: url(/bg-start.jpeg);
