@@ -44,7 +44,7 @@ html,body{
 
 .navbar ul li a {
     text-decoration: none;
-    /* color: #333; */
+    color: #333;
 }
 .navbar ul li .dropdown-nav{
    border: 0;
@@ -232,9 +232,7 @@ html,body{
     color: #666;
     font-size: 14px;
 }
-.property-meta .num{
-    
-}
+
 /* Filters Section */
 .property-filters {
     flex: 1;
